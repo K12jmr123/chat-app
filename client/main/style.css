@@ -1,0 +1,12 @@
+h1{
+    font-size: 30px;
+    font-style: inherit;
+    text-align: center;
+    
+}
+.h1:hover{
+    color: blue;
+}
+#messages{
+margin-left: 30px;
+}
